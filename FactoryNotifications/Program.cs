@@ -27,7 +27,9 @@ while (true)
                 break;
         }
         INotification noti = plantillaNoti.CreateNotification();
-        noti.Send("User was created succesfully");
+        Console.WriteLine("Please enter the message: ");
+        string message = Console.ReadLine();
+        noti.Send(message);
 
 
     }else if(opcion == 4)
