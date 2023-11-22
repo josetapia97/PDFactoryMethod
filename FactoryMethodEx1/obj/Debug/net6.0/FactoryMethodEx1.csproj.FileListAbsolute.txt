@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\bin\Debug\net6.0\FactoryMethodEx1.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\bin\Debug\net6.0\FactoryMethodEx1.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\bin\Debug\net6.0\FactoryMethodEx1.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\bin\Debug\net6.0\FactoryMethodEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\bin\Debug\net6.0\FactoryMethodEx1.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\refint\FactoryMethodEx1.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\FactoryMethodEx1.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryMethodEx1\obj\Debug\net6.0\ref\FactoryMethodEx1.dll
