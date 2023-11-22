@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\bin\Debug\net6.0\FactoryNotifications.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\bin\Debug\net6.0\FactoryNotifications.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\bin\Debug\net6.0\FactoryNotifications.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\bin\Debug\net6.0\FactoryNotifications.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\bin\Debug\net6.0\FactoryNotifications.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\refint\FactoryNotifications.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\FactoryNotifications.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\FactoryMethod\FactoryNotifications\obj\Debug\net6.0\ref\FactoryNotifications.dll
