@@ -39,7 +39,7 @@ while (true)
     else
     {
         Console.WriteLine($"Your option is not valid: {option}");
-        break;
+    
     }
 
     
